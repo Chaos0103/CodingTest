@@ -34,6 +34,7 @@ def dfs(i, now):
             div -= 1
             dfs(i+1, int(now / data[i]))  # 나눌 때는 나머지를 계산
             div += 1
+열
 
 # DFS 메서드 호출
 dfs(1, data[0])
