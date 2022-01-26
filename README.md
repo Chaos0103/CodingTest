@@ -1,6 +1,8 @@
-### 시작일: 2021/12/10(Fri)
-### 교재: 이것이 취업을 위한 코딩 테스트다 with 파이썬
-### IDE: PyCharm
+#### 시작일: 2021/12/10(Fri)
+#### 교재: 이것이 취업을 위한 코딩 테스트다 with 파이썬
+#### IDE: PyCharm
+
+### Part 1 코딩 테스트, 무엇을 어떻게 준비할까?
 
 ### Part 2 주요 알고리즘 이론과 실전 문제
 
@@ -31,8 +33,8 @@
   - DFS: [DFSCode](/Answer/Ch05/DFS.py)
   - BFS: [BFSCode](/Answer/Ch05/BFS.py)
 - 실전
-  - 음료수 얼려 먹기: [Mycode]() / [AnswerCode](/AnswerCode/Ch05/1.py)
-  - 미로 탈출: [Mycode]() / [AnswerCode](/AnswerCode/Ch05/2.py)
+  - 음료수 얼려 먹기: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/44774c90eedeb7b7054659006eda7c14ee68451a/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter05%20DFS_BFS/%EC%9D%8C%EB%A3%8C%EC%88%98%20%EC%96%BC%EB%A0%A4%20%EB%A8%B9%EA%B8%B0.py) / [AnswerCode](/AnswerCode/Ch05/1.py)
+  - 미로 탈출: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/44774c90eedeb7b7054659006eda7c14ee68451a/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter05%20DFS_BFS/%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C.py) / [AnswerCode](/AnswerCode/Ch05/2.py)
 
 #### Chapter06 정렬
 
@@ -109,13 +111,35 @@
 
 #### Chapter13 DFS/BFS
 
-- 특정 거리의 도시 찾기 (핵심 유형): [Mycode]() / [AnswerCode]()
-- 연구소 (삼성): [Mycode]() / [AnswerCode]()
-- 경쟁적 전염 (핵심 유형): [Mycode]() / [AnswerCode]()
-- 괄호 변환 (카카오): [Mycode]() / [AnswerCode]()
-- 연산자 끼워 넣기 (삼성): [Mycode]() / [AnswerCode]()
-- 감시 피하기 (핵심 유형): [Mycode]() / [AnswerCode]()
-- 인구 이동 (삼성): [Mycode]() / [AnswerCode]()
-- 블록 이동하기(카카오): [Mycode]() / [AnswerCode]()
+- 특정 거리의 도시 찾기 (핵심 유형): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/44774c90eedeb7b7054659006eda7c14ee68451a/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter13%20DFS_BFS%20%EB%AC%B8%EC%A0%9C/Q15%20%ED%8A%B9%EC%A0%95%20%EA%B1%B0%EB%A6%AC%EC%9D%98%20%EB%8F%84%EC%8B%9C%20%EC%B0%BE%EA%B8%B0.py) / [AnswerCode](/AnswerCode/Ch13/Q15.py)
+- 연구소 (삼성): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/44774c90eedeb7b7054659006eda7c14ee68451a/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter13%20DFS_BFS%20%EB%AC%B8%EC%A0%9C/Q16%20%EC%97%B0%EA%B5%AC%EC%86%8C.py) / [AnswerCode](/AnswerCode/Ch13/Q16.py)
+- 경쟁적 전염 (핵심 유형): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/44774c90eedeb7b7054659006eda7c14ee68451a/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter13%20DFS_BFS%20%EB%AC%B8%EC%A0%9C/Q17%20%EA%B2%BD%EC%9F%81%EC%A0%81%20%EC%A0%84%EC%97%BC.py) / [AnswerCode](/AnswerCode/Ch13/Q17.py)
+- 괄호 변환 (카카오): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/c2873f8e850472340af11efe0ff5447a89e6c302/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter13%20DFS_BFS%20%EB%AC%B8%EC%A0%9C/Q18%20%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.py) / [AnswerCode](/AnswerCode/Ch13/Q18.py)
+- 연산자 끼워 넣기 (삼성): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/c2873f8e850472340af11efe0ff5447a89e6c302/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter13%20DFS_BFS%20%EB%AC%B8%EC%A0%9C/Q19%20%EC%97%B0%EC%82%B0%EC%9E%90%20%EB%81%BC%EC%9B%8C%20%EB%84%A3%EA%B8%B0.py) / [AnswerCode](/AnswerCode/Ch13/Q19.py)
+- 감시 피하기 (핵심 유형): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/c2873f8e850472340af11efe0ff5447a89e6c302/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter13%20DFS_BFS%20%EB%AC%B8%EC%A0%9C/Q20%20%EA%B0%90%EC%8B%9C%20%ED%94%BC%ED%95%98%EA%B8%B0.py) / [AnswerCode](/AnswerCode/Ch13/Q20.py)
+- 인구 이동 (삼성): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/c2873f8e850472340af11efe0ff5447a89e6c302/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter13%20DFS_BFS%20%EB%AC%B8%EC%A0%9C/Q21%20%EC%9D%B8%EA%B5%AC%20%EC%9D%B4%EB%8F%99.py) / [AnswerCode](/AnswerCode/Ch13/Q21.py)
+- 블록 이동하기(카카오): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/c2873f8e850472340af11efe0ff5447a89e6c302/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter13%20DFS_BFS%20%EB%AC%B8%EC%A0%9C/Q22%20%EB%B8%94%EB%A1%9D%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.py) / [AnswerCode](/AnswerCode/Ch13/Q22.py)
 
-####
+#### Chapter14 정렬
+
+- 국영수 (핵심 유형): [Mycode]() / [AnswerCode]()
+- 안테나 (국내 S 교육 기관 선발 평가): [Mycode]() / [AnswerCode]()
+- 실패율 (카카오): [Mycode]() / [AnswerCode]()
+- 카드 정렬하기 (핵심 유형): [Mycode]() / [AnswerCode]()
+
+
+### Part 4 부록
+
+#### 부록 A 코딩 테스트를 위한 파이썬 문법
+
+- 자료형
+  - 수 자료형
+  - 리스트 자료형
+  - 문자열 자료형
+  - 튜플 자료형
+  - 사전 자료형
+  - 집합 자료형
+- 조건문
+- 반복문
+- 함수
+- 입출력
