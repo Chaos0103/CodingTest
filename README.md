@@ -122,10 +122,17 @@
 
 #### Chapter14 정렬
 
-- 국영수 (핵심 유형): [Mycode]() / [AnswerCode]()
-- 안테나 (국내 S 교육 기관 선발 평가): [Mycode]() / [AnswerCode]()
-- 실패율 (카카오): [Mycode]() / [AnswerCode]()
-- 카드 정렬하기 (핵심 유형): [Mycode]() / [AnswerCode]()
+- 국영수 (핵심 유형): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/7c919183946da5188c773270041a3b4bff98e536/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter14%20%EC%A0%95%EB%A0%AC%20%EB%AC%B8%EC%A0%9C/Q23%20%EA%B5%AD%EC%98%81%EC%88%98.py) / [AnswerCode](/AnswerCode/Ch14/Q23.py)
+- 안테나 (국내 S 교육 기관 선발 평가): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/7c919183946da5188c773270041a3b4bff98e536/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter14%20%EC%A0%95%EB%A0%AC%20%EB%AC%B8%EC%A0%9C/Q24%20%EC%95%88%ED%85%8C%EB%82%98.py) / [AnswerCode](/AnswerCode/Ch14/Q24.py)
+- 실패율 (카카오): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/7c919183946da5188c773270041a3b4bff98e536/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter14%20%EC%A0%95%EB%A0%AC%20%EB%AC%B8%EC%A0%9C/Q25%20%EC%8B%A4%ED%8C%A8%EC%9C%A8.py) / [AnswerCode](/AnswerCode/Ch14/Q25.py)
+- 카드 정렬하기 (핵심 유형): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/7c919183946da5188c773270041a3b4bff98e536/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter14%20%EC%A0%95%EB%A0%AC%20%EB%AC%B8%EC%A0%9C/Q26%20%EC%B9%B4%EB%93%9C%20%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py) / [AnswerCode](/AnswerCode/Ch14/Q26.py)
+
+#### Chapter15 이진 탐색
+
+- 정렬된 배열에서 특정 수의 개수 구하기 (Zoho 인터뷰 기출): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/e34db4ab794adb54072c6c94901b1ab4fa9684f0/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter15%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%EB%AC%B8%EC%A0%9C/Q27%20%EC%A0%95%EB%A0%AC%EB%90%9C%20%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C%20%ED%8A%B9%EC%A0%95%20%EC%88%98%EC%9D%98%20%EA%B0%9C%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.py) / [AnswerCode](/AnswerCode/Ch15/Q27.py)
+- 고정점 찾기 (Amazon 인터뷰 기출): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/e34db4ab794adb54072c6c94901b1ab4fa9684f0/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter15%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%EB%AC%B8%EC%A0%9C/Q28%20%EA%B3%A0%EC%A0%95%EC%A0%90%20%EC%B0%BE%EA%B8%B0.py) / [AnswerCode](/AnswerCode/Ch15/Q28.py)
+- 공유기 설치 (핵심 유형): [Mycode]() / [AnswerCode](/AnswerCode/Ch15/Q29.py)
+- 가사 검색 (카카오): [Mycode]() / [AnswerCode](/AnswerCode/Ch15/Q30.py)
 
 
 ### Part 4 부록
