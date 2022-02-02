@@ -152,11 +152,11 @@
 
 #### Chapter18 그래프 이론
 
-- 여행 계획 (핵심 유형): [Mycode]() / [AnswerCode]()
-- 탑승구 (CCC): [Mycode]() / [AnswerCode]()
-- 어두운 길 (): [Mycode]() / [AnswerCode]()
-- 행성 터널 (COCI): [Mycode]() / [AnswerCode]()
-- 최종 순위 (NWERC 2010): [Mycode]() / [AnswerCode]()
+- 여행 계획 (핵심 유형): [Mycode]() / [AnswerCode](/AnswerCode/Ch18/Q41.py)
+- 탑승구 (CCC): [Mycode]() / [AnswerCode](/AnswerCode/Ch18/Q42.py)
+- 어두운 길 (): [Mycode]() / [AnswerCode](/AnswerCode/Ch18/Q43.py)
+- 행성 터널 (COCI): [Mycode]() / [AnswerCode](/AnswerCode/Ch18/Q44.py)
+- 최종 순위 (NWERC 2010): [Mycode]() / [AnswerCode](/AnswerCode/Ch18/Q45.py)
 
 ### Part 4 부록
 
