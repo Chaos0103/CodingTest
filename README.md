@@ -158,6 +158,12 @@
 - 행성 터널 (COCI): [Mycode]() / [AnswerCode](/AnswerCode/Ch18/Q44.py)
 - 최종 순위 (NWERC 2010): [Mycode]() / [AnswerCode](/AnswerCode/Ch18/Q45.py)
 
+#### Chapter19 2020년 상반기 삼성전자 기출문제
+
+- 아기 상어 (삼성): [Mycode]() / [AnswerCode](/AnswerCode/Ch19/Q46.py)
+- 청소년 상어 (삼성): [Mycode]() / [AnswerCode](/AnswerCode/Ch19/Q47.py)
+- 어른 상어 (삼성): [Mycode]() / [AnswerCode](/AnswerCode/Ch19/Q48.py)
+
 ### Part 4 부록
 
 #### 부록 A 코딩 테스트를 위한 파이썬 문법
