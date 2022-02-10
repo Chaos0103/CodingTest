@@ -1,47 +1,46 @@
-def check_list(data, n):
-    cnt = 0
+def check(lock, n):
     for i in range(n):
         for j in range(n):
-            if data[n+i][n+j] == 1:
-                cnt += 1
-    if cnt == n**2:
-        return True
-    else:
-        return False
+            if lock[n+i][n+j] != 1:
+                return False
+    return True
 
 
-def turn_right(data, n):
-    result = [[0] * n for _ in range(n)]
-    idx = n-1
-    for i in data:
-        for j in range(n):
-            result[j][idx] = i[j]
-        idx -= 1
-    return result
+def turn_key(key):
+    row_length = len(key)
+    column_length = len(key[0])
+
+    res = [[0] * row_length for _ in range(column_length)]
+    for r in range(row_length):
+        for c in range(column_length):
+            res[c][row_length-1-r] = key[r][c]
+
+    return res
 
 
 def solution(key, lock):
-    size = len(lock)
+    lock_len = len(lock)
+    new_lock = [[0] * (lock_len*3) for _ in range(lock_len*3)]
+    for i in range(lock_len):
+        for j in range(lock_len):
+            new_lock[lock_len+i][lock_len+j] = lock[i][j]
+
     for _ in range(4):
-        for i in range(size*2 + 1):
-            for j in range(size*2 + 1):
-                data = [[0] * (size * 3) for i in range(size * 3)]
-                for a in range(size):
-                    for b in range(size):
-                        data[size+a][size+b] = lock[a][b]
-
-                for a in range(len(key)):
-                    for b in range(len(key)):
-                        data[i+a][j+b] += key[a][b]
-                result = check_list(data, size)
-                if result:
+        key = turn_key(key)
+        for x in range(lock_len * 2):
+            for y in range(lock_len * 2):
+                for i in range(len(key)):
+                    for j in range(len(key)):
+                        new_lock[x+i][y+j] += key[i][j]
+                if check(new_lock, lock_len):
                     return True
-        key = turn_right(key, len(key))
-
+                for i in range(len(key)):
+                    for j in range(len(key)):
+                        new_lock[x+i][y+j] -= key[i][j]
     return False
 
 
-test_key = [[0, 0, 0], [1, 0, 0], [0, 1, 1]]
-test_lock = [[1, 1, 1], [1, 1, 0], [1, 0, 1]]
-
-print(solution(test_key, test_lock))
+# test case
+key = [[0, 0, 0], [1, 0, 0], [0, 1, 1]]
+lock = [[1, 1, 1], [1, 1, 0], [1, 0, 1]]
+print(solution(key, lock))  # true
