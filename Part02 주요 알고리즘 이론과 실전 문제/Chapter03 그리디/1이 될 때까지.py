@@ -1,18 +1,18 @@
-N, K = map(int, input().split())
-cnt = 0
+n, k = map(int, input().split())
+count = 0
 
-while N != 1:
-    if N % K == 0:
-        N //= K
+while n > 1:
+    if n % k == 0:
+        n //= k
     else:
-        N -= 1
-    cnt += 1
+        n -= 1
+    count += 1
 
-print(cnt)
+print(count)
 
-# running time: 1sec | memory limit: 128MB
-
-# input
-# 25 5
-# output
-# 2
+'''
+[input]
+25 5
+[output]
+2
+'''

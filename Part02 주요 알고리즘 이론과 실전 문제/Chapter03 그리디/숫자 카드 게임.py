@@ -1,24 +1,24 @@
-N, M = map(int, input().split())
-
-card = []
-for _ in range(N):
+n, m = map(int, input().split())
+result = 0
+for _ in range(n):
     data = list(map(int, input().split()))
-    card.append(min(data))
+    result = max(result, min(data))
 
-print(max(card))
+print(result)
 
-# running time: 1sec | memory limit: 128MB
+'''
+[input]
+3 3
+3 1 2
+4 1 4
+2 2 2
+[output]
+2
 
-# input
-# 3 3
-# 3 1 2
-# 4 1 4
-# 2 2 2
-# output
-# 2
-
-# input
-# 7 3 1 8
-# 3 3 3 4
-# output
-# 3
+[input]
+2 4
+7 3 1 8
+3 3 3 4
+[output]
+3
+'''

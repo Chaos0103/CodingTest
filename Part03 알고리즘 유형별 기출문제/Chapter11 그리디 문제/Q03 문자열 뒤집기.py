@@ -1,9 +1,15 @@
-S = input()
+data = input()
+count = 1
 
-change = 1
+for i in range(len(data)-1):
+    if data[i] != data[i+1]:
+        count += 1
 
-for i in range(len(S)-1):
-    if S[i] != S[i+1]:
-        change += 1
+print(count // 2)
 
-print(change//2)
+'''
+[input]
+0001100
+[output]
+1
+'''

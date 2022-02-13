@@ -1,9 +1,16 @@
-N = int(input())
-data = []
-for _ in range(N):
-    data.append(int(input()))
+n = int(input())
+data = [int(input()) for _ in range(n)]
 
 data.sort(reverse=True)
 
-for num in data:
-    print(num, end=' ')
+print(*data)
+
+'''
+[input]
+3
+15
+27
+12
+[output]
+27 15 12
+'''

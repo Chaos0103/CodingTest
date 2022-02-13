@@ -1,12 +1,20 @@
 n = int(input())
-data = list(map(int, input().split()))
+coins = list(map(int, input().split()))
 
-data.sort()
+coins.sort()
+
 result = 1
-
-for coin in data:
+for coin in coins:
     if result < coin:
         break
     result += coin
 
 print(result)
+
+'''
+[input]
+5
+3 2 1 1 9
+[output]
+8
+'''

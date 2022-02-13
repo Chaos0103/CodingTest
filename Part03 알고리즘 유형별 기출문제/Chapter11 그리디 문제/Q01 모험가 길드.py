@@ -2,14 +2,22 @@ n = int(input())
 data = list(map(int, input().split()))
 
 data.sort()
-
-group = 0
-member = 0
+result = 0
+member = 1
 
 for h in data:
-    member += 1
     if member >= h:
-        member = 0
-        group += 1
+        result += 1
+        member = 1
+        continue
+    member += 1
 
-print(group)
+print(result)
+
+'''
+[input]
+5
+2 3 1 2 2
+[output]
+2
+'''

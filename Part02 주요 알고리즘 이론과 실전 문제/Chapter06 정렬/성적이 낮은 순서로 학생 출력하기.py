@@ -1,12 +1,19 @@
-N = int(input())
-
-data = []
-
-for _ in range(N):
+n = int(input())
+datas = []
+for _ in range(n):
     name, score = input().split()
-    data.append([name, int(score)])
+    datas.append([name, int(score)])
 
-data = sorted(data, key=lambda student: student[1])
+datas = sorted(datas, key=lambda x: x[1])
 
-for d in data:
-    print(d[0], end=' ')
+for data in datas:
+    print(data[0], end=' ')
+
+'''
+[input]
+2
+홍길동 95
+이순신 77
+[output]
+이순신 홍길동
+'''

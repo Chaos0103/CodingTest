@@ -10,3 +10,12 @@ for i in range(k):
         a[i], b[i] = b[i], a[i]
 
 print(sum(a))
+
+'''
+[input]
+5 3
+1 2 5 4 3
+5 5 6 6 5
+[output]
+26
+'''
