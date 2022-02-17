@@ -1,10 +1,10 @@
 def check(data):
-    for x, y, t in data:
-        if t == 0:
-            if y == 0 or [x, y-1, 0] in data or [x, y, 1] in data or [x-1, y, 1] in data:
+    for x, y, a in data:
+        if a == 0:  # 기둥
+            if y == 0 or [x, y-1, 0] in data or [x-1, y, 1] in data or [x, y, 1] in data:
                 continue
             return False
-        elif t == 1:
+        elif a == 1:  # 보
             if [x, y-1, 0] in data or [x+1, y-1, 0] in data or ([x-1, y, 1] in data and [x+1, y, 1] in data):
                 continue
             return False
@@ -13,13 +13,13 @@ def check(data):
 
 def solution(n, build_frame):
     answer = []
-    for x, y, t, s in build_frame:
-        if s == 0:
-            answer.remove([x, y, t])
+    for x, y, a, b in build_frame:
+        if b == 0:
+            answer.remove([x, y, a])
             if not check(answer):
-                answer.append([x, y, t])
-        elif s == 1:
-            answer.append([x, y, t])
+                answer.append([x, y, a])
+        elif b == 1:
+            answer.append([x, y, a])
             if not check(answer):
                 answer.pop()
     answer.sort()

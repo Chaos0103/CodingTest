@@ -3,29 +3,23 @@ from itertools import combinations
 n, m = map(int, input().split())
 house = []
 chicken = []
-for a in range(n):
-    data = list(map(int, input().split()))
-    for b in range(n):
-        if data[b] == 1:
-            house.append((a, b))
-        elif data[b] == 2:
-            chicken.append((a, b))
+for i in range(n):
+    date = list(map(int, input().split()))
+    for j in range(n):
+        if date[j] == 1:
+            house.append((i, j))
+        elif date[j] == 2:
+            chicken.append((i, j))
 
-datas = list(combinations(chicken, m))
-
-
-def getSum(data):
-    result = 0
+min_dist = int(1e9)
+for data in list(combinations(chicken, m)):
+    bnow = 0
     for hx, hy in house:
-        min_value = int(1e9)
+        now = int(1e9)
         for cx, cy in data:
-            min_value = min(min_value, abs(hx - cx) + abs(hy - cy))
-        result += min_value
-    return result
+            dist = abs(hx-cx) + abs(hy-cy)
+            now = min(now, dist)
+        bnow += now
+    min_dist = min(min_dist, bnow)
 
-
-min_value = int(1e9)
-for data in datas:
-    min_value = min(min_value, getSum(data))
-
-print(min_value)
+print(min_dist)
