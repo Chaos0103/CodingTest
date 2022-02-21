@@ -63,25 +63,25 @@
 - 이론
   - 다이나믹 프로그래밍
 - 실전
-  - 1로 만들기: [Mycode]() / [AnswerCode]()
-  - 개미 전사: [Mycode]() / [AnswerCode]()
-  - 바닥 공사: [Mycode]() / [AnswerCode]()
-  - 효율적인 화폐 구성: [Mycode]() / [AnswerCode]()
+  - 1로 만들기: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/3b4f3ee27592604f2b24774362200ba3d06b5c3f/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter08%20%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) / [AnswerCode](/AnswerCode/Ch08/1.py)
+  - 개미 전사: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/3b4f3ee27592604f2b24774362200ba3d06b5c3f/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter08%20%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EA%B0%9C%EB%AF%B8%20%EC%A0%84%EC%82%AC.py) / [AnswerCode](/AnswerCode/Ch08/2.py)
+  - 바닥 공사: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/3b4f3ee27592604f2b24774362200ba3d06b5c3f/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter08%20%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EB%B0%94%EB%8B%A5%20%EA%B3%B5%EC%82%AC.py) / [AnswerCode](/AnswerCode/Ch08/3.py)
+  - 효율적인 화폐 구성: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/3b4f3ee27592604f2b24774362200ba3d06b5c3f/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter08%20%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8%20%ED%99%94%ED%8F%90%20%EA%B5%AC%EC%84%B1.py) / [AnswerCode](/AnswerCode/Ch08/4.py)
 
 #### Chapter09 최단 경로
 
 - 이론
   - 가장 빠른 길 찾기 
 - 실전
-  - 미래 도시: [Mycode]() / [AnswerCode]()
-  - 전보: [Mycode]() / [AnswerCode]()
+  - 미래 도시: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/3b4f3ee27592604f2b24774362200ba3d06b5c3f/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter09%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EB%AF%B8%EB%9E%98%20%EB%8F%84%EC%8B%9C.py) / [AnswerCode](/AnswerCode/Ch09/1.py)
+  - 전보: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/3b4f3ee27592604f2b24774362200ba3d06b5c3f/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter09%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C/%EC%A0%84%EB%B3%B4.py) / [AnswerCode](/AnswerCode/Ch09/2.py)
 
 #### Chapter10 그래프 이론
 
 - 이론
   - 다양한 그래프 알고리즘
 - 실전
-  - 팀 결성: [Mycode]() / [AnswerCode]()
+  - 팀 결성: [Mycode]() / [AnswerCode](/AnswerCode/Ch10/1.py)
   - 도시 분할 계획: [Mycode]() / [AnswerCode]()
   - 커리큘럼: [Mycode]() / [AnswerCode]()
   
