@@ -11,29 +11,33 @@ for _ in range(m):
     x, y, z = map(int, input().split())
     graph[x].append((y, z))
 
+q = []
+heapq.heappush(q, (0, c))
+distance[c] = 0
+while q:
+    dist, now = heapq.heappop(q)
+    if distance[now] < dist:
+        continue
+    for i in graph[now]:
+        cost = dist + i[1]
+        if cost < distance[i[0]]:
+            distance[i[0]] = cost
+            heapq.heappush(q, (cost, i[0]))
 
-def dijkstra(start):
-    q = []
-    heapq.heappush(q, (0, start))
-    distance[start] = 0
-    while q:
-        dist, now = heapq.heappop(q)
-        if dist > distance[now]:
-            continue
-        for i in graph[now]:
-            cost = dist + i[1]
-            if distance[i[0]] > cost:
-                distance[i[0]] = cost
-                heapq.heappush(q, (cost, i[0]))
+count = 0
+result = 0
+for i in distance:
+    if 0 < i < INF:
+        count += 1
+        result = max(result, i)
 
+print(count, result)
 
-dijkstra(c)
-cnt = 0
-time = 0
-for i in range(1, n+1):
-    if 0 < distance[i] < INF:
-        cnt += 1
-        if time < distance[i]:
-            time = distance[i]
-
-print(cnt, time)
+'''
+[input]
+3 2 1
+1 2 4
+1 3 2
+[output]
+2 4
+'''

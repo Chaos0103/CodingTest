@@ -1,28 +1,32 @@
-N = int(input())
-data1 = list(map(int, input().split()))
-M = int(input())
-data2 = list(map(int, input().split()))
-
-data1.sort()
-
-
 def binary_search(array, target, start, end):
-    mid = (start + end) // 2
-    if start > end:
-        return False
-    if array[mid] > target:
-        return binary_search(array, target, start, mid - 1)
-    elif array[mid] < target:
-        return binary_search(array, target, mid + 1, end)
-    else:
-        return True
+    while start <= end:
+        mid = (start + end) // 2
+        # 찾은 경우 중간점 인덱스 반환
+        if array[mid] == target:
+            return 'yes'
+        # 중간점의 값보다 찾고자 하는 값이 작은 경우 왼쪽 확인
+        elif array[mid] > target:
+            end = mid - 1
+        else:
+            start = mid + 1
+    return 'no'
 
 
-for n in data2:
-    if binary_search(data1, n, 0, N):
-        print(end='yes ')
-    else:
-        print(end='no ')
+n = int(input())
+array = list(map(int, input().split()))
+array.sort()
+m = int(input())
+order = list(map(int, input().split()))
 
-# time: 30minute | running time: 1sec | memory limit: 128MB
-# 이진 탐색, 계수 정렬, 집합 자료형으로 풀이 가능
+for num in order:
+    print(binary_search(array, num, 0, n-1), end=' ')
+
+'''
+[input]
+5
+8 3 7 9 2
+3
+5 7 9
+[output]
+no yes yes
+'''
