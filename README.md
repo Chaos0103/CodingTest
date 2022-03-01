@@ -1,6 +1,6 @@
 #### 시작일: 2021/12/10(Fri)
 #### 교재: 이것이 취업을 위한 코딩 테스트다 with 파이썬
-#### IDE: PyCharm
+#### IDE: PyCharm(Python), CLion(C++)
 
 ### Part 1 코딩 테스트, 무엇을 어떻게 준비할까?
 
@@ -12,29 +12,29 @@
   - 당장 좋은 것만 선택하는 그리디
   - 거스름돈 문제: [MyCode](https://github.com/Chaos0103/CodingTest_Python/blob/ad17f291cc6317c9e4449b4d8976b4e966e12046/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter03%20%EA%B7%B8%EB%A6%AC%EB%94%94/%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.py) / [AnswerCode](/AnswerCode/Ch03/1.py)
 - 실전
-  - 큰 수의 법칙: MyCode ([Python](https://github.com/Chaos0103/CodingTest_Python/blob/ad17f291cc6317c9e4449b4d8976b4e966e12046/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter03%20%EA%B7%B8%EB%A6%AC%EB%94%94/%ED%81%B0%20%EC%88%98%EC%9D%98%20%EB%B2%95%EC%B9%99.py) / [C++](https://github.com/Chaos0103/CodingTest_Python/blob/19796c3a0b2fac48798842bdaf6dc3e42b0b1172/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter03%20%EA%B7%B8%EB%A6%AC%EB%94%94/%ED%81%B0%20%EC%88%98%EC%9D%98%20%EB%B2%95%EC%B9%99.cpp)) / AnswerCode ([Python](/AnswerCode/Ch03/2.py) / [C++](/AnswerCode/Ch03/2.cpp))
-  - 숫자 카드게임: MyCode ([Python](https://github.com/Chaos0103/CodingTest_Python/blob/ad17f291cc6317c9e4449b4d8976b4e966e12046/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter03%20%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84.py) / [C++](https://github.com/Chaos0103/CodingTest_Python/blob/19796c3a0b2fac48798842bdaf6dc3e42b0b1172/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter03%20%EA%B7%B8%EB%A6%AC%EB%94%94/%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84.cpp)) / AnswerCode ([Python](/AnswerCode/Ch03/3.py) / [C++](/AnswerCode/Ch03/3.cpp))
-  - 1이 될 때까지: MyCode ([Python](https://github.com/Chaos0103/CodingTest_Python/blob/19796c3a0b2fac48798842bdaf6dc3e42b0b1172/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter03%20%EA%B7%B8%EB%A6%AC%EB%94%94/1%EC%9D%B4%20%EB%90%A0%20%EB%95%8C%EA%B9%8C%EC%A7%80.py) / [C++](https://github.com/Chaos0103/CodingTest_Python/blob/19796c3a0b2fac48798842bdaf6dc3e42b0b1172/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter03%20%EA%B7%B8%EB%A6%AC%EB%94%94/1%EC%9D%B4%20%EB%90%A0%20%EB%95%8C%EA%B9%8C%EC%A7%80.cpp)) / AnswerCode ([Python](/AnswerCode/Ch03/4.py) / [C++](/AnswerCode/Ch03/4.cpp))
+  - 큰 수의 법칙: MyCode([Python](/part02/ch03/2.py)/[C++]((/part02/ch03/2.cpp))) / AnswerCode ([Python](/AnswerCode/Ch03/2.py)/[C++](/AnswerCode/Ch03/2.cpp))
+  - 숫자 카드게임: MyCode([Python](/part02/ch03/3.py)/[C++]((/part02/ch03/3.cpp))) / AnswerCode ([Python](/AnswerCode/Ch03/3.py)/[C++](/AnswerCode/Ch03/3.cpp))
+  - 1이 될 때까지: MyCode([Python](/part02/ch03/4.py)/[C++]((/part02/ch03/4.cpp))) / AnswerCode ([Python](/AnswerCode/Ch03/4.py)/[C++](/AnswerCode/Ch03/4.cpp))
 
 #### Chapter04 구현
 
 - 이론
   - 아이디어를 코드로 바꾸는 구현
-  - 상하좌우: MyCode ([Python](https://github.com/Chaos0103/CodingTest/blob/0da2125c38305648002f45ba68e3b07bd9cd2572/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter04%20%EA%B5%AC%ED%98%84/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0.py) / [C++](https://github.com/Chaos0103/CodingTest/blob/0da2125c38305648002f45ba68e3b07bd9cd2572/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter04%20%EA%B5%AC%ED%98%84/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0.cpp)) / AnswerCode ([Python](/AnswerCode/Ch04/1.py) / [C++](/AnswerCode/Ch04/1.cpp))
-  - 시각: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/7a6dbd56c7ccfd5ba076c4118a0424a171aeb452/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter04%20%EA%B5%AC%ED%98%84/%EC%8B%9C%EA%B0%81.py) / [AnswerCode](/AnswerCode/Ch04/2.py)
+  - 상하좌우: MyCode([Python](/part02/ch04/1.py)/[C++]((/part02/ch04/1.cpp))) / AnswerCode ([Python](/AnswerCode/Ch04/1.py)/[C++](/AnswerCode/Ch04/1.cpp))
+  - 시각: MyCode([Python](/part02/ch04/2.py)/[C++]((/part02/ch04/2.cpp))) / AnswerCode ([Python](/AnswerCode/Ch04/2.py)/[C++](/AnswerCode/Ch04/2.cpp))
 - 실전
-  - 왕실의 나이트: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/7a6dbd56c7ccfd5ba076c4118a0424a171aeb452/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter04%20%EA%B5%AC%ED%98%84/%EC%99%95%EC%8B%A4%EC%9D%98%20%EB%82%98%EC%9D%B4%ED%8A%B8.py) / [AnswerCode](/AnswerCode/Ch04/3.py)
-  - 게임 개발: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/7a6dbd56c7ccfd5ba076c4118a0424a171aeb452/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter04%20%EA%B5%AC%ED%98%84/%EA%B2%8C%EC%9E%84%20%EA%B0%9C%EB%B0%9C.py) / [AnswerCode](/AnswerCode/Ch04/4.py)
+  - 왕실의 나이트: MyCode([Python](/part02/ch04/3.py)/[C++]((/part02/ch04/3.cpp))) / AnswerCode ([Python](/AnswerCode/Ch04/3.py)/[C++](/AnswerCode/Ch04/3.cpp))
+  - 게임 개발: MyCode([Python](/part02/ch04/4.py)/[C++]((/part02/ch04/4.cpp))) / AnswerCode ([Python](/AnswerCode/Ch04/4.py)/[C++](/AnswerCode/Ch04/4.cpp))
 
 #### Chapter05 DFS/BFS
 
 - 이론
   - 탐색 알고리즘 DFS/BFS 
-  - DFS: [DFSCode](/Answer/Ch05/DFS.py)
-  - BFS: [BFSCode](/Answer/Ch05/BFS.py)
+  - DFS: [Python](/Answer/Ch05/DFS.py) / [C++](/Answer/Ch05/dfs.py)
+  - BFS: [Python](/Answer/Ch05/BFS.py) / [C++](/Answer/Ch05/bfs.py)
 - 실전
-  - 음료수 얼려 먹기: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/44774c90eedeb7b7054659006eda7c14ee68451a/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter05%20DFS_BFS/%EC%9D%8C%EB%A3%8C%EC%88%98%20%EC%96%BC%EB%A0%A4%20%EB%A8%B9%EA%B8%B0.py) / [AnswerCode](/AnswerCode/Ch05/1.py)
-  - 미로 탈출: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/44774c90eedeb7b7054659006eda7c14ee68451a/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter05%20DFS_BFS/%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C.py) / [AnswerCode](/AnswerCode/Ch05/2.py)
+  - 음료수 얼려 먹기: MyCode([Python](/part02/ch05/1.py)/[C++]((/part02/ch05/1.cpp))) / AnswerCode ([Python](/AnswerCode/Ch05/1.py)/[C++](/AnswerCode/Ch05/1.cpp))
+  - 미로 탈출: MyCode([Python](/part02/ch05/2.py)/[C++]((/part02/ch05/2.cpp))) / AnswerCode ([Python](/AnswerCode/Ch05/2.py)/[C++](/AnswerCode/Ch05/2.cpp))
 
 #### Chapter06 정렬
 
