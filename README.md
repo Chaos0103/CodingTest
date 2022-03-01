@@ -12,19 +12,19 @@
   - 당장 좋은 것만 선택하는 그리디
   - 거스름돈 문제: [MyCode](https://github.com/Chaos0103/CodingTest_Python/blob/ad17f291cc6317c9e4449b4d8976b4e966e12046/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter03%20%EA%B7%B8%EB%A6%AC%EB%94%94/%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.py) / [AnswerCode](/AnswerCode/Ch03/1.py)
 - 실전
-  - 큰 수의 법칙: MyCode([Python](/part02/ch03/2.py)/[C++]((/part02/ch03/2.cpp))) / AnswerCode ([Python](/AnswerCode/Ch03/2.py)/[C++](/AnswerCode/Ch03/2.cpp))
-  - 숫자 카드게임: MyCode([Python](/part02/ch03/3.py)/[C++]((/part02/ch03/3.cpp))) / AnswerCode ([Python](/AnswerCode/Ch03/3.py)/[C++](/AnswerCode/Ch03/3.cpp))
-  - 1이 될 때까지: MyCode([Python](/part02/ch03/4.py)/[C++]((/part02/ch03/4.cpp))) / AnswerCode ([Python](/AnswerCode/Ch03/4.py)/[C++](/AnswerCode/Ch03/4.cpp))
+  - 큰 수의 법칙: MyCode([Python](/part02/ch03/2.py)/[C++](/part02/ch03/2.cpp)) / AnswerCode ([Python](/AnswerCode/Ch03/2.py)/[C++](/AnswerCode/Ch03/2.cpp))
+  - 숫자 카드게임: MyCode([Python](/part02/ch03/3.py)/[C++](/part02/ch03/3.cpp)) / AnswerCode ([Python](/AnswerCode/Ch03/3.py)/[C++](/AnswerCode/Ch03/3.cpp))
+  - 1이 될 때까지: MyCode([Python](/part02/ch03/4.py)/[C++](/part02/ch03/4.cpp)) / AnswerCode ([Python](/AnswerCode/Ch03/4.py)/[C++](/AnswerCode/Ch03/4.cpp))
 
 #### Chapter04 구현
 
 - 이론
   - 아이디어를 코드로 바꾸는 구현
-  - 상하좌우: MyCode([Python](/part02/ch04/1.py)/[C++]((/part02/ch04/1.cpp))) / AnswerCode ([Python](/AnswerCode/Ch04/1.py)/[C++](/AnswerCode/Ch04/1.cpp))
-  - 시각: MyCode([Python](/part02/ch04/2.py)/[C++]((/part02/ch04/2.cpp))) / AnswerCode ([Python](/AnswerCode/Ch04/2.py)/[C++](/AnswerCode/Ch04/2.cpp))
+  - 상하좌우: MyCode([Python](/part02/ch04/1.py)/[C++](/part02/ch04/1.cpp)) / AnswerCode ([Python](/AnswerCode/Ch04/1.py)/[C++](/AnswerCode/Ch04/1.cpp))
+  - 시각: MyCode([Python](/part02/ch04/2.py)/[C++](/part02/ch04/2.cpp)) / AnswerCode ([Python](/AnswerCode/Ch04/2.py)/[C++](/AnswerCode/Ch04/2.cpp))
 - 실전
-  - 왕실의 나이트: MyCode([Python](/part02/ch04/3.py)/[C++]((/part02/ch04/3.cpp))) / AnswerCode ([Python](/AnswerCode/Ch04/3.py)/[C++](/AnswerCode/Ch04/3.cpp))
-  - 게임 개발: MyCode([Python](/part02/ch04/4.py)/[C++]((/part02/ch04/4.cpp))) / AnswerCode ([Python](/AnswerCode/Ch04/4.py)/[C++](/AnswerCode/Ch04/4.cpp))
+  - 왕실의 나이트: MyCode([Python](/part02/ch04/3.py)/[C++](/part02/ch04/3.cpp)) / AnswerCode ([Python](/AnswerCode/Ch04/3.py)/[C++](/AnswerCode/Ch04/3.cpp))
+  - 게임 개발: MyCode([Python](/part02/ch04/4.py)/[C++](/part02/ch04/4.cpp)) / AnswerCode ([Python](/AnswerCode/Ch04/4.py)/[C++](/AnswerCode/Ch04/4.cpp))
 
 #### Chapter05 DFS/BFS
 
