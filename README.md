@@ -30,11 +30,11 @@
 
 - 이론
   - 탐색 알고리즘 DFS/BFS 
-  - DFS: [Python](/Answer/Ch05/DFS.py) / [C++](/Answer/Ch05/dfs.cpp)
-  - BFS: [Python](/Answer/Ch05/BFS.py) / [C++](/Answer/Ch05/bfs.cpp)
+  - DFS: [Python](/AnswerCode/Ch05/DFS.py) / [C++](/AnswerCode/Ch05/dfs.cpp)
+  - BFS: [Python](/AnswerCode/Ch05/BFS.py) / [C++](/AnswerCode/Ch05/bfs.cpp)
 - 실전
-  - 음료수 얼려 먹기: MyCode([Python](/part02/ch05/1.py)/[C++]((/part02/ch05/1.cpp))) / AnswerCode ([Python](/AnswerCode/Ch05/1.py)/[C++](/AnswerCode/Ch05/1.cpp))
-  - 미로 탈출: MyCode([Python](/part02/ch05/2.py)/[C++]((/part02/ch05/2.cpp))) / AnswerCode ([Python](/AnswerCode/Ch05/2.py)/[C++](/AnswerCode/Ch05/2.cpp))
+  - 음료수 얼려 먹기: MyCode([Python](/part02/ch05/1.py)/[C++](/part02/ch05/1.cpp)) / AnswerCode ([Python](/AnswerCode/Ch05/1.py)/[C++](/AnswerCode/Ch05/1.cpp))
+  - 미로 탈출: MyCode([Python](/part02/ch05/2.py)/[C++](/part02/ch05/2.cpp)) / AnswerCode ([Python](/AnswerCode/Ch05/2.py)/[C++](/AnswerCode/Ch05/2.cpp))
 
 #### Chapter06 정렬
 
