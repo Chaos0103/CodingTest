@@ -10,21 +10,21 @@
 
 - 이론 
   - 당장 좋은 것만 선택하는 그리디
-  - 거스름돈 문제: [MyCode](https://github.com/Chaos0103/CodingTest_Python/blob/ad17f291cc6317c9e4449b4d8976b4e966e12046/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter03%20%EA%B7%B8%EB%A6%AC%EB%94%94/%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.py) / [AnswerCode](/AnswerCode/Ch03/1.py)
+  - 거스름돈 문제: [MyCode](/part02/ch03/1.py) / [AnswerCode](/AnswerCode/Ch03/1.py)
 - 실전
-  - 큰 수의 법칙: MyCode([Python](/part02/ch03/2.py)/[C++](/part02/ch03/2.cpp)) / AnswerCode ([Python](/AnswerCode/Ch03/2.py)/[C++](/AnswerCode/Ch03/2.cpp))
-  - 숫자 카드게임: MyCode([Python](/part02/ch03/3.py)/[C++](/part02/ch03/3.cpp)) / AnswerCode ([Python](/AnswerCode/Ch03/3.py)/[C++](/AnswerCode/Ch03/3.cpp))
-  - 1이 될 때까지: MyCode([Python](/part02/ch03/4.py)/[C++](/part02/ch03/4.cpp)) / AnswerCode ([Python](/AnswerCode/Ch03/4.py)/[C++](/AnswerCode/Ch03/4.cpp))
+  - 큰 수의 법칙: MyCode ([Python](/part02/ch03/2.py)/[C++](/part02/ch03/2.cpp)) / AnswerCode ([Python](/AnswerCode/Ch03/2.py)/[C++](/AnswerCode/Ch03/2.cpp))
+  - 숫자 카드게임: MyCode ([Python](/part02/ch03/3.py)/[C++](/part02/ch03/3.cpp)) / AnswerCode ([Python](/AnswerCode/Ch03/3.py)/[C++](/AnswerCode/Ch03/3.cpp))
+  - 1이 될 때까지: MyCode ([Python](/part02/ch03/4.py)/[C++](/part02/ch03/4.cpp)) / AnswerCode ([Python](/AnswerCode/Ch03/4.py)/[C++](/AnswerCode/Ch03/4.cpp))
 
 #### Chapter04 구현
 
 - 이론
   - 아이디어를 코드로 바꾸는 구현
-  - 상하좌우: MyCode([Python](/part02/ch04/1.py)/[C++](/part02/ch04/1.cpp)) / AnswerCode ([Python](/AnswerCode/Ch04/1.py)/[C++](/AnswerCode/Ch04/1.cpp))
-  - 시각: MyCode([Python](/part02/ch04/2.py)/[C++](/part02/ch04/2.cpp)) / AnswerCode ([Python](/AnswerCode/Ch04/2.py)/[C++](/AnswerCode/Ch04/2.cpp))
+  - 상하좌우: MyCode ([Python] (/part02/ch04/1.py)/[C++](/part02/ch04/1.cpp)) / AnswerCode ([Python](/AnswerCode/Ch04/1.py)/[C++](/AnswerCode/Ch04/1.cpp))
+  - 시각: MyCode ([Python] (/part02/ch04/2.py)/[C++](/part02/ch04/2.cpp)) / AnswerCode ([Python](/AnswerCode/Ch04/2.py)/[C++](/AnswerCode/Ch04/2.cpp))
 - 실전
-  - 왕실의 나이트: MyCode([Python](/part02/ch04/3.py)/[C++](/part02/ch04/3.cpp)) / AnswerCode ([Python](/AnswerCode/Ch04/3.py)/[C++](/AnswerCode/Ch04/3.cpp))
-  - 게임 개발: MyCode([Python](/part02/ch04/4.py)/[C++](/part02/ch04/4.cpp)) / AnswerCode ([Python](/AnswerCode/Ch04/4.py)/[C++](/AnswerCode/Ch04/4.cpp))
+  - 왕실의 나이트: MyCode ([Python](/part02/ch04/3.py)/[C++](/part02/ch04/3.cpp)) / AnswerCode ([Python](/AnswerCode/Ch04/3.py)/[C++](/AnswerCode/Ch04/3.cpp))
+  - 게임 개발: MyCode ([Python](/part02/ch04/4.py)/[C++](/part02/ch04/4.cpp)) / AnswerCode ([Python](/AnswerCode/Ch04/4.py)/[C++](/AnswerCode/Ch04/4.cpp))
 
 #### Chapter05 DFS/BFS
 
@@ -33,20 +33,20 @@
   - DFS: [Python](/AnswerCode/Ch05/DFS.py) / [C++](/AnswerCode/Ch05/dfs.cpp)
   - BFS: [Python](/AnswerCode/Ch05/BFS.py) / [C++](/AnswerCode/Ch05/bfs.cpp)
 - 실전
-  - 음료수 얼려 먹기: MyCode([Python](/part02/ch05/1.py)/[C++](/part02/ch05/1.cpp)) / AnswerCode ([Python](/AnswerCode/Ch05/1.py)/[C++](/AnswerCode/Ch05/1.cpp))
-  - 미로 탈출: MyCode([Python](/part02/ch05/2.py)/[C++](/part02/ch05/2.cpp)) / AnswerCode ([Python](/AnswerCode/Ch05/2.py)/[C++](/AnswerCode/Ch05/2.cpp))
+  - 음료수 얼려 먹기: MyCode ([Python](/part02/ch05/1.py)/[C++](/part02/ch05/1.cpp)) / AnswerCode ([Python](/AnswerCode/Ch05/1.py)/[C++](/AnswerCode/Ch05/1.cpp))
+  - 미로 탈출: MyCode ([Python](/part02/ch05/2.py)/[C++](/part02/ch05/2.cpp)) / AnswerCode ([Python](/AnswerCode/Ch05/2.py)/[C++](/AnswerCode/Ch05/2.cpp))
 
 #### Chapter06 정렬
 
 - 이론
   - 기준에 따라 데이터를 정렬
-  - 선택 정렬: [Selection Sort Code](https://github.com/Chaos0103/CodingTest_Python/blob/8b13a54db7d918c378af1e7b1362e4dce29d78a4/Algorithm%20Note/%EC%A0%95%EB%A0%AC/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC.py)
-  - 삽입 정렬: [Insertion Sort Code](https://github.com/Chaos0103/CodingTest_Python/blob/8b13a54db7d918c378af1e7b1362e4dce29d78a4/Algorithm%20Note/%EC%A0%95%EB%A0%AC/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC.py)
-  - 퀵 정렬: [Quick Sort Code](https://github.com/Chaos0103/CodingTest_Python/blob/8b13a54db7d918c378af1e7b1362e4dce29d78a4/Algorithm%20Note/%EC%A0%95%EB%A0%AC/%ED%80%B5%20%EC%A0%95%EB%A0%AC.py)
-  - 파이썬의 장점을 살린 퀵 정렬: [Quick Sort Code](https://github.com/Chaos0103/CodingTest_Python/blob/8b13a54db7d918c378af1e7b1362e4dce29d78a4/Algorithm%20Note/%EC%A0%95%EB%A0%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98%20%EC%9E%A5%EC%A0%90%EC%9D%84%20%EC%82%B4%EB%A6%B0%20%ED%80%B5%20%EC%A0%95%EB%A0%AC%20%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C.py)
-  - 계수 정렬: [Count Sort Code](https://github.com/Chaos0103/CodingTest_Python/blob/8b13a54db7d918c378af1e7b1362e4dce29d78a4/Algorithm%20Note/%EC%A0%95%EB%A0%AC/%EA%B3%84%EC%88%98%20%EC%A0%95%EB%A0%AC.py)
+  - 선택 정렬: [Selection Sort Code]()
+  - 삽입 정렬: [Insertion Sort Code]()
+  - 퀵 정렬: [Quick Sort Code]()
+  - 파이썬의 장점을 살린 퀵 정렬: [Quick Sort Code]()
+  - 계수 정렬: [Count Sort Code]()
 - 실전
-  - 위에서 아래로: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/37920121d06fb353f93209d68021a404914023ab/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter06%20%EC%A0%95%EB%A0%AC/%EC%9C%84%EC%97%90%EC%84%9C%20%EC%95%84%EB%9E%98%EB%A1%9C.py) / [AnswerCode](/AnswerCode/Ch06/1.py)
+  - 위에서 아래로: MyCode ([Python](/part02/ch06/1.py)/[C++](/part02/ch06/1.cpp)) / AnswerCode ([Python](/AnswerCode/Ch06/1.py)/[C++](/AnswerCode/Ch06/1.cpp))
   - 성적이 낮은 순서대로 학생 출력하기: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/37920121d06fb353f93209d68021a404914023ab/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter06%20%EC%A0%95%EB%A0%AC/%EC%84%B1%EC%A0%81%EC%9D%B4%20%EB%82%AE%EC%9D%80%20%EC%88%9C%EC%84%9C%EB%A1%9C%20%ED%95%99%EC%83%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.py) / [AnswerCode](/AnswerCode/Ch06/2.py)
   - 두 배열의 원소 교체: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/bb1960d64cef345e12d684e6cf110d830cfe4177/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter06%20%EC%A0%95%EB%A0%AC/%EB%91%90%20%EB%B0%B0%EC%97%B4%EC%9D%98%20%EC%9B%90%EC%86%8C%20%EA%B5%90%EC%B2%B4.py) / [AnswerCode](/AnswerCode/Ch06/3.py)
 
