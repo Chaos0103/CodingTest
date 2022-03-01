@@ -30,8 +30,8 @@
 
 - 이론
   - 탐색 알고리즘 DFS/BFS 
-  - DFS: [Python](/Answer/Ch05/DFS.py) / [C++](/Answer/Ch05/dfs.py)
-  - BFS: [Python](/Answer/Ch05/BFS.py) / [C++](/Answer/Ch05/bfs.py)
+  - DFS: [Python](/Answer/Ch05/DFS.py) / [C++](/Answer/Ch05/dfs.cpp)
+  - BFS: [Python](/Answer/Ch05/BFS.py) / [C++](/Answer/Ch05/bfs.cpp)
 - 실전
   - 음료수 얼려 먹기: MyCode([Python](/part02/ch05/1.py)/[C++]((/part02/ch05/1.cpp))) / AnswerCode ([Python](/AnswerCode/Ch05/1.py)/[C++](/AnswerCode/Ch05/1.cpp))
   - 미로 탈출: MyCode([Python](/part02/ch05/2.py)/[C++]((/part02/ch05/2.cpp))) / AnswerCode ([Python](/AnswerCode/Ch05/2.py)/[C++](/AnswerCode/Ch05/2.cpp))
