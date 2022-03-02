@@ -20,8 +20,8 @@
 
 - 이론
   - 아이디어를 코드로 바꾸는 구현
-  - 상하좌우: MyCode ([Python] (/part02/ch04/1.py)/[C++](/part02/ch04/1.cpp)) / AnswerCode ([Python](/AnswerCode/Ch04/1.py)/[C++](/AnswerCode/Ch04/1.cpp))
-  - 시각: MyCode ([Python] (/part02/ch04/2.py)/[C++](/part02/ch04/2.cpp)) / AnswerCode ([Python](/AnswerCode/Ch04/2.py)/[C++](/AnswerCode/Ch04/2.cpp))
+  - 상하좌우: MyCode ([Python](/part02/ch04/1.py)/[C++](/part02/ch04/1.cpp)) / AnswerCode ([Python](/AnswerCode/Ch04/1.py)/[C++](/AnswerCode/Ch04/1.cpp))
+  - 시각: MyCode ([Python](/part02/ch04/2.py)/[C++](/part02/ch04/2.cpp)) / AnswerCode ([Python](/AnswerCode/Ch04/2.py)/[C++](/AnswerCode/Ch04/2.cpp))
 - 실전
   - 왕실의 나이트: MyCode ([Python](/part02/ch04/3.py)/[C++](/part02/ch04/3.cpp)) / AnswerCode ([Python](/AnswerCode/Ch04/3.py)/[C++](/AnswerCode/Ch04/3.cpp))
   - 게임 개발: MyCode ([Python](/part02/ch04/4.py)/[C++](/part02/ch04/4.cpp)) / AnswerCode ([Python](/AnswerCode/Ch04/4.py)/[C++](/AnswerCode/Ch04/4.cpp))
@@ -40,20 +40,21 @@
 
 - 이론
   - 기준에 따라 데이터를 정렬
-  - 선택 정렬: [Selection Sort Code]()
-  - 삽입 정렬: [Insertion Sort Code]()
-  - 퀵 정렬: [Quick Sort Code]()
-  - 파이썬의 장점을 살린 퀵 정렬: [Quick Sort Code]()
-  - 계수 정렬: [Count Sort Code]()
+  - 선택 정렬(Selection Sort Code): [Python](/AnswerCode/Ch06/selection.py) / [C++](/AnswerCode/Ch06/selection.cpp)
+  - 삽입 정렬(Insertion Sort Code): [Python](/AnswerCode/Ch06/insertion.py) / [C++](/AnswerCode/Ch06/insertion.cpp)
+  - 퀵 정렬(Quick Sort Code): [Python](/AnswerCode/Ch06/quick.py) / [C++](/AnswerCode/Ch06/quick.cpp)
+  - 파이썬의 장점을 살린 퀵 정렬(Quick Sort Code): [Python]()
+  - 계수 정렬(Count Sort Code): [Python](/AnswerCode/Ch06/count.py) / [C++](/AnswerCode/Ch06/count.cpp)
 - 실전
   - 위에서 아래로: MyCode ([Python](/part02/ch06/1.py)/[C++](/part02/ch06/1.cpp)) / AnswerCode ([Python](/AnswerCode/Ch06/1.py)/[C++](/AnswerCode/Ch06/1.cpp))
-  - 성적이 낮은 순서대로 학생 출력하기: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/37920121d06fb353f93209d68021a404914023ab/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter06%20%EC%A0%95%EB%A0%AC/%EC%84%B1%EC%A0%81%EC%9D%B4%20%EB%82%AE%EC%9D%80%20%EC%88%9C%EC%84%9C%EB%A1%9C%20%ED%95%99%EC%83%9D%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.py) / [AnswerCode](/AnswerCode/Ch06/2.py)
-  - 두 배열의 원소 교체: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/bb1960d64cef345e12d684e6cf110d830cfe4177/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter06%20%EC%A0%95%EB%A0%AC/%EB%91%90%20%EB%B0%B0%EC%97%B4%EC%9D%98%20%EC%9B%90%EC%86%8C%20%EA%B5%90%EC%B2%B4.py) / [AnswerCode](/AnswerCode/Ch06/3.py)
+  - 성적이 낮은 순서대로 학생 출력하기: MyCode ([Python](/part02/ch06/2.py)/[C++](#)) / AnswerCode ([Python](/AnswerCode/Ch06/2.py)/[C++](#))
+  - 두 배열의 원소 교체: MyCode ([Python](/part02/ch06/3.py)/[C++](/part02/ch06/3.cpp)) / AnswerCode ([Python](/AnswerCode/Ch06/3.py)/[C++](/AnswerCode/Ch06/3.cpp))
 
 #### Chapter07 이진 탐색
 
 - 이론
   - 범위를 반씩 좁혀가는 탐색
+  - 
 - 실전
   - 부품 찾기: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/bb1960d64cef345e12d684e6cf110d830cfe4177/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter07%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89/%EB%B6%80%ED%92%88%20%EC%B0%BE%EA%B8%B0.py) / [AnswerCode](/AnswerCode/Ch07/1.py)
   - 떡볶이 떡 만들기: [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/bb1960d64cef345e12d684e6cf110d830cfe4177/Part02%20%EC%A3%BC%EC%9A%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9D%B4%EB%A1%A0%EA%B3%BC%20%EC%8B%A4%EC%A0%84%20%EB%AC%B8%EC%A0%9C/Chapter07%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89/%EB%96%A1%EB%B3%B6%EC%9D%B4%20%EB%96%A1%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py) / [AnswerCode](/AnswerCode/Ch07/2.py)
