@@ -10,11 +10,3 @@ for coin in coins:
     result += coin
 
 print(result)
-
-'''
-[input]
-5
-3 2 1 1 9
-[output]
-8
-'''
