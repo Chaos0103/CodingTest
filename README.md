@@ -10,7 +10,7 @@
 
 - 이론 
   - 당장 좋은 것만 선택하는 그리디
-  - 거스름돈 문제: [MyCode](/part02/ch03/1.py) / [AnswerCode](/AnswerCode/Ch03/1.py)
+  - 거스름돈 문제: MyCode ([Python](/part02/ch03/1.py)/[C++](/part02/ch03/1.cpp)) / AnswerCode ([Python](/AnswerCode/Ch03/1.py)/[C++](/AnswerCode/Ch03/1.cpp))
 - 실전
   - 큰 수의 법칙: MyCode ([Python](/part02/ch03/2.py)/[C++](/part02/ch03/2.cpp)) / AnswerCode ([Python](/AnswerCode/Ch03/2.py)/[C++](/AnswerCode/Ch03/2.cpp))
   - 숫자 카드게임: MyCode ([Python](/part02/ch03/3.py)/[C++](/part02/ch03/3.cpp)) / AnswerCode ([Python](/AnswerCode/Ch03/3.py)/[C++](/AnswerCode/Ch03/3.cpp))
@@ -92,12 +92,12 @@
 
 #### Chapter11 그리디
 
-- 모험가 길드 (핵심 유형): [Mycode]() / [AnswerCode](/AnswerCode/Ch11/Q01.py)
-- 곱하기 혹은 더하기 (Facebook 인터뷰 기출): [Mycode]() / [AnswerCode](/AnswerCode/Ch11/Q02.py)
-- 문자열 뒤집기 (핵심 유형): [Mycode]() / [AnswerCode](/AnswerCode/Ch11/Q03.py)
-- 만들 수 없는 금액 (K 대회 기출): [Mycode]() / [AnswerCode](/AnswerCode/Ch11/Q04.py)
-- 볼링공 고르기 (S 기관 입학 테스트): [Mycode]() / [AnswerCode](/AnswerCode/Ch11/Q05.py)
-- 무지의 먹방 라이브 (카카오): [Mycode]() / [AnswerCode](/AnswerCode/Ch11/Q06.py)
+- 모험가 길드 (핵심 유형): ([Python](/part03/ch11/Q01.py)/[C++](/part03/ch11/Q01.cpp)) / AnswerCode ([Python](/AnswerCode/Ch11/Q01.py)/[C++](/AnswerCode/Ch11/Q01.cpp))
+- 곱하기 혹은 더하기 (Facebook 인터뷰 기출): ([Python](/part03/ch11/Q02.py)/[C++](/part03/ch11/Q02.cpp)) / AnswerCode ([Python](/AnswerCode/Ch11/Q02.py)/[C++](/AnswerCode/Ch11/Q02.cpp))
+- 문자열 뒤집기 (핵심 유형): ([Python](/part03/ch11/Q03.py)/[C++](/part03/ch11/Q03.cpp)) / AnswerCode ([Python](/AnswerCode/Ch11/Q03.py)/[C++](/AnswerCode/Ch11/Q03.cpp))
+- 만들 수 없는 금액 (K 대회 기출): ([Python](/part03/ch11/Q04.py)/[C++](/part03/ch11/Q04.cpp)) / AnswerCode ([Python](/AnswerCode/Ch11/Q04.py)/[C++](/AnswerCode/Ch11/Q04.cpp))
+- 볼링공 고르기 (S 기관 입학 테스트): ([Python](/part03/ch11/Q05.py)/[C++](/part03/ch11/Q05.cpp)) / AnswerCode ([Python](/AnswerCode/Ch11/Q05.py)/[C++](/AnswerCode/Ch11/Q05.cpp))
+- 무지의 먹방 라이브 (카카오): ([Python](/part03/ch11/Q06.py)/[C++](/part03/ch11/Q06.cpp)) / AnswerCode ([Python](/AnswerCode/Ch11/Q06.py)/[C++](/AnswerCode/Ch11/Q06.cpp))
 
 #### Chapter12 구현
 
