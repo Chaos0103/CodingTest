@@ -101,9 +101,9 @@
 
 #### Chapter12 구현
 
-- 럭키 스트레이트 (핵심 유형): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/18a6ca59f662ae7d38dd215a8eab283c07db7829/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter12%20%EA%B5%AC%ED%98%84%20%EB%AC%B8%EC%A0%9C/Q07%20%EB%9F%AD%ED%82%A4%20%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%ED%8A%B8.py) / [AnswerCode](/AnswerCode/Ch12/Q07.py)
-- 문자열 재정렬 (Facebook 인터뷰): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/18a6ca59f662ae7d38dd215a8eab283c07db7829/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter12%20%EA%B5%AC%ED%98%84%20%EB%AC%B8%EC%A0%9C/Q08%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%9E%AC%EC%A0%95%EB%A0%AC.py) / [AnswerCode](/AnswerCode/Ch12/Q08.py)
-- 문자열 압축 (카카오): [Mycode]() / [AnswerCode](/AnswerCode/Ch12/Q09.py)
+- 럭키 스트레이트 (핵심 유형): ([Python](/part03/ch12/Q07.py)/[C++](/part03/ch12/Q07.cpp)) / AnswerCode ([Python](/AnswerCode/Ch12/Q07.py)/[C++](/AnswerCode/Ch12/Q07.cpp))
+- 문자열 재정렬 (Facebook 인터뷰): ([Python](/part03/ch12/Q08.py)/[C++](/part03/ch12/Q08.cpp)) / AnswerCode ([Python](/AnswerCode/Ch12/Q08.py)/[C++](/AnswerCode/Ch12/Q08.cpp))
+- 문자열 압축 (카카오): ([Python](/part03/ch12/Q09.py)/[C++](/part03/ch12/Q09.cpp)) / AnswerCode ([Python](/AnswerCode/Ch12/Q09.py)/[C++](/AnswerCode/Ch12/Q09.cpp))
 - 자물쇠와 열쇠 (카카오): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/18a6ca59f662ae7d38dd215a8eab283c07db7829/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter12%20%EA%B5%AC%ED%98%84%20%EB%AC%B8%EC%A0%9C/Q10%20%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%20%EC%97%B4%EC%87%A0.py) / [AnswerCode](/AnswerCode/Ch12/Q10.py)
 - 뱀 (삼성): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/18a6ca59f662ae7d38dd215a8eab283c07db7829/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter12%20%EA%B5%AC%ED%98%84%20%EB%AC%B8%EC%A0%9C/Q11%20%EB%B1%80.py) / [AnswerCode](/AnswerCode/Ch12/Q11.py)
 - 기둥과 보 설치 (카카오): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/18a6ca59f662ae7d38dd215a8eab283c07db7829/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter12%20%EA%B5%AC%ED%98%84%20%EB%AC%B8%EC%A0%9C/Q12%20%EA%B8%B0%EB%91%A5%EA%B3%BC%20%EB%B3%B4%20%EC%84%A4%EC%B9%98.py) / [AnswerCode](/AnswerCode/Ch12/Q12.py)
