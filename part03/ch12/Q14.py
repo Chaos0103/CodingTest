@@ -8,15 +8,15 @@ def solution(n, weak, dist):
     answer = len(dist) + 1
 
     for start in range(length):
-        for people in list(permutations(dist, len(dist))):
+        for p in list(permutations(dist, len(dist))):
             cnt = 1
-            pos = weak[start] + people[cnt-1]
+            pos = weak[start] + p[cnt - 1]
             for i in range(start, start+length):
                 if pos < weak[i]:
                     cnt += 1
                     if cnt > len(dist):
                         break
-                    pos = weak[i] + people[cnt-1]
+                    pos = weak[i] + p[cnt-1]
             answer = min(answer, cnt)
     if answer > len(dist):
         return -1

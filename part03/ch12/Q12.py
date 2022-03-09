@@ -1,11 +1,12 @@
-def check(data):
-    for x, y, a in data:
-        if a == 0:  # 기둥
-            if y == 0 or [x, y-1, 0] in data or [x-1, y, 1] in data or [x, y, 1] in data:
+def check(datas):
+    for data in datas:
+        x, y, a = data
+        if a == 0:
+            if y == 0 or [x, y-1, 0] in datas or [x-1, y, 1] in datas or [x, y, 1] in datas:
                 continue
             return False
-        elif a == 1:  # 보
-            if [x, y-1, 0] in data or [x+1, y-1, 0] in data or ([x-1, y, 1] in data and [x+1, y, 1] in data):
+        else:
+            if [x, y-1, 0] in datas or [x+1, y-1, 0] in datas or ([x-1, y, 1] in datas and [x+1, y, 1] in datas):
                 continue
             return False
     return True
@@ -13,12 +14,13 @@ def check(data):
 
 def solution(n, build_frame):
     answer = []
-    for x, y, a, b in build_frame:
+    for data in build_frame:
+        x, y, a, b = data
         if b == 0:
             answer.remove([x, y, a])
             if not check(answer):
                 answer.append([x, y, a])
-        elif b == 1:
+        else:
             answer.append([x, y, a])
             if not check(answer):
                 answer.pop()
