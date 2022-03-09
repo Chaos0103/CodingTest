@@ -104,11 +104,11 @@
 - 럭키 스트레이트 (핵심 유형): ([Python](/part03/ch12/Q07.py)/[C++](/part03/ch12/Q07.cpp)) / AnswerCode ([Python](/AnswerCode/Ch12/Q07.py)/[C++](/AnswerCode/Ch12/Q07.cpp))
 - 문자열 재정렬 (Facebook 인터뷰): ([Python](/part03/ch12/Q08.py)/[C++](/part03/ch12/Q08.cpp)) / AnswerCode ([Python](/AnswerCode/Ch12/Q08.py)/[C++](/AnswerCode/Ch12/Q08.cpp))
 - 문자열 압축 (카카오): ([Python](/part03/ch12/Q09.py)/[C++](/part03/ch12/Q09.cpp)) / AnswerCode ([Python](/AnswerCode/Ch12/Q09.py)/[C++](/AnswerCode/Ch12/Q09.cpp))
-- 자물쇠와 열쇠 (카카오): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/18a6ca59f662ae7d38dd215a8eab283c07db7829/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter12%20%EA%B5%AC%ED%98%84%20%EB%AC%B8%EC%A0%9C/Q10%20%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%20%EC%97%B4%EC%87%A0.py) / [AnswerCode](/AnswerCode/Ch12/Q10.py)
+- 자물쇠와 열쇠 (카카오): ([Python](/part03/ch12/Q10.py)/[C++](/part03/ch12/Q10.cpp)) / AnswerCode ([Python](/AnswerCode/Ch12/Q10.py)/[C++](/AnswerCode/Ch12/Q10.cpp))
 - 뱀 (삼성): ([Python](/part03/ch12/Q11.py)/[C++](/part03/ch12/Q11.cpp)) / AnswerCode ([Python](/AnswerCode/Ch12/Q11.py)/[C++](/AnswerCode/Ch12/Q11.cpp))
-- 기둥과 보 설치 (카카오): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/18a6ca59f662ae7d38dd215a8eab283c07db7829/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter12%20%EA%B5%AC%ED%98%84%20%EB%AC%B8%EC%A0%9C/Q12%20%EA%B8%B0%EB%91%A5%EA%B3%BC%20%EB%B3%B4%20%EC%84%A4%EC%B9%98.py) / [AnswerCode](/AnswerCode/Ch12/Q12.py)
-- 치킨 배달 (삼성): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/18a6ca59f662ae7d38dd215a8eab283c07db7829/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter12%20%EA%B5%AC%ED%98%84%20%EB%AC%B8%EC%A0%9C/Q13%20%EC%B9%98%ED%82%A8%20%EB%B0%B0%EB%8B%AC.py) / [AnswerCode](/AnswerCode/Ch12/Q13.py)
-- 외벽 점검 (카카오): [Mycode](https://github.com/Chaos0103/CodingTest_Python/blob/7a6dbd56c7ccfd5ba076c4118a0424a171aeb452/Part03%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/Chapter12%20%EA%B5%AC%ED%98%84%20%EB%AC%B8%EC%A0%9C/Q14%20%EC%99%B8%EB%B2%BD%20%EC%A0%90%EA%B2%80.py) / [AnswerCode](/AnswerCode/Ch12/Q14.py)
+- 기둥과 보 설치 (카카오): ([Python](/part03/ch12/Q12.py)/[C++](/part03/ch12/Q12.cpp)) / AnswerCode ([Python](/AnswerCode/Ch12/Q12.py)/[C++](/AnswerCode/Ch12/Q12.cpp))
+- 치킨 배달 (삼성): ([Python](/part03/ch12/Q13.py)/[C++](/part03/ch12/Q13.cpp)) / AnswerCode ([Python](/AnswerCode/Ch12/Q13.py)/[C++](/AnswerCode/Ch12/Q13.cpp))
+- 외벽 점검 (카카오): ([Python](/part03/ch12/Q14.py)/[C++](/part03/ch12/Q14.cpp)) / AnswerCode ([Python](/AnswerCode/Ch12/Q14.py)/[C++](/AnswerCode/Ch12/Q14.cpp))
 
 #### Chapter13 DFS/BFS
 
