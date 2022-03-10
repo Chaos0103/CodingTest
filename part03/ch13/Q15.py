@@ -11,10 +11,10 @@ q = deque()
 q.append(start)
 visited[start] = 0
 while q:
-    city = q.popleft()
-    for i in graph[city]:
+    now = q.popleft()
+    for i in graph[now]:
         if visited[i] == -1:
-            visited[i] = visited[city] + 1
+            visited[i] = visited[now] + 1
             q.append(i)
 
 result = []
@@ -29,13 +29,3 @@ else:
     for n in result:
         print(n)
 
-'''
-[input]
-4 4 2 1
-1 2
-1 3
-2 3
-2 4
-[output]
-4
-'''
