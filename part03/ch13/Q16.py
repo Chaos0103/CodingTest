@@ -1,57 +1,53 @@
-from itertools import permutations
 from collections import deque
+from itertools import permutations
 
 n, m = map(int, input().split())
-graph = []
+
 blank = []
-visited = [[0]*m for _ in range(n)]
-virus = []
+viruses = []
+graph = []
+result = 0
 for i in range(n):
-    data = list(map(int, input().split()))
+    graph.append(list(map(int, input().split())))
     for j in range(m):
-        if data[j] == 0:
-            blank.append([i, j])
-        elif data[j] == 2:
-            virus.append([i, j])
-    graph.append(data)
+        if graph[i][j] == 0:
+            blank.append((i, j))
+        if graph[i][j] == 2:
+            viruses.append((i, j))
 
 dx = [0, 0, 1, -1]
 dy = [1, -1, 0, 0]
 
+for pos in list(permutations(blank, 3)):
+    data = [[0]*m for _ in range(n)]
 
-def count():
+    for i in range(n):
+        for j in range(m):
+            if (i, j) in pos:
+                data[i][j] = 1
+            else:
+                data[i][j] = graph[i][j]
+
+    for virus in viruses:
+        queue = deque()
+        queue.append(virus)
+        while queue:
+            x, y = queue.popleft()
+            for i in range(4):
+                nx = x + dx[i]
+                ny = y + dy[i]
+                if nx < 0 or ny < 0 or nx >= n or ny >= m:
+                    continue
+                if data[nx][ny] == 0:
+                    data[nx][ny] = 2
+                    queue.append((nx, ny))
+
     count = 0
     for i in range(n):
         for j in range(m):
-            if visited[i][j] == 0:
+            if data[i][j] == 0:
                 count += 1
-    return count
 
-
-result = 0
-for new_wall in list(permutations(blank, 3)):
-    for i in range(n):
-        for j in range(m):
-            visited[i][j] = graph[i][j]
-
-    for x, y in new_wall:
-        visited[x][y] = 1
-
-    q = deque()
-    for x, y in virus:
-        q.append((x, y))
-
-    while q:
-        x, y = q.popleft()
-        for i in range(4):
-            nx = x + dx[i]
-            ny = y + dy[i]
-            if 0 <= nx < n and 0 <= ny < m:
-                if visited[nx][ny] == 0:
-                    visited[nx][ny] = 2
-                    q.append((nx, ny))
-
-    cnt = count()
-    result = max(result, cnt)
+    result = max(result, count)
 
 print(result)

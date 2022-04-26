@@ -1,31 +1,32 @@
 from collections import deque
 
 n, k = map(int, input().split())
-data = []
-virus = []
-for i in range(n):
-    d = list(map(int, input().split()))
-    for j in range(n):
-        if d[j] != 0:
-            virus.append((d[j], 0, i, j))  # (virus, time, xpos, ypos)
-    data.append(d)
-T, X, Y = map(int, input().split())
 
-virus.sort()  # 바이러스 넘버가 1부터 시작한다는 보장이 없으므로 오름차순 정렬 해야함
-q = deque(virus)
+graph = []
+data = []
+for i in range(n):
+    graph.append(list(map(int, input().split())))
+    for j in range(n):
+        if graph[i][j] != 0:
+            data.append((graph[i][j], 0, i, j))  # virus, time, x, y
+s, x, y = map(int, input().split())
+
+data.sort()
+q = deque(data)
 dx = [0, 0, 1, -1]
 dy = [1, -1, 0, 0]
 
 while q:
-    num, time, x, y = q.popleft()
-    if time >= T:
+    v, t, xpos, ypos = q.popleft()
+    if t >= s:
         break
     for i in range(4):
-        nx = x + dx[i]
-        ny = y + dy[i]
-        if 0 <= nx < n and 0 <= ny < n:
-            if data[nx][ny] == 0:
-                data[nx][ny] = num
-                q.append((num, time + 1, nx, ny))
+        nx = xpos + dx[i]
+        ny = ypos + dy[i]
+        if nx < 0 or ny < 0 or nx >= n or ny >= n:
+            continue
+        if graph[nx][ny] == 0:
+            graph[nx][ny] = v
+            q.append((v, t+1, nx, ny))
 
-print(data[X-1][Y-1])
+print(graph[x-1][y-1])
